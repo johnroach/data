@@ -8,6 +8,12 @@
   "language": "eng",
   "quality_notes": "",
   "recorded": "2015-04-10",
+  "related_urls": [
+    {
+      "label": "Tutorial page",
+      "url": "http://www.dabeaz.com/modulepackage/index.html"
+    }
+  ]
   "slug": "modules-and-packages-live-and-let-die",
   "speakers": [
     "David Beazley"
